@@ -1,4 +1,4 @@
-<img src='/header.png' />
+<img src='/banner.png' />
 
 - 🌱 I love simple life, problem-solving, learning, languages, videogames, movies and music. My goal nowadays is learning everything I need to get my programming dreamwork in which I can work remotely, since I'm moving to Ecuador on November 2022.
 - 👀 I’m currently learning the basics of programming. Some time ago began taking 2 online courses: CS50 by edX and The Odin project. At this moment I began the Full-stack Bootcamp at 4GeeksAcademy.
