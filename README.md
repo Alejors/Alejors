@@ -23,8 +23,7 @@ alejoatria@gmail.com
 <a href="https://www.instagram.com/alejors/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alejors&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alejors&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alejors&show_icons=true&theme=dark&bg_color=DEG,black,green)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alejors&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 Alejors/Alejors is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
