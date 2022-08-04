@@ -16,6 +16,8 @@ I'm a full-stack web-developer on the making. I’m currently learning the basic
 <a href="https://ubuntu.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" height="40" width="40"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" height="40" width="40"/></a>
 </p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alejors&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alejors&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--CONNECT -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,8 +25,6 @@ I'm a full-stack web-developer on the making. I’m currently learning the basic
 <a href="https://www.linkedin.com/in/alejandroatria/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.instagram.com/alejors/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 </p>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alejors&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alejors&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 Alejors/Alejors is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
