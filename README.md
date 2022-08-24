@@ -3,12 +3,10 @@
 ## Here you can find eveything I've worked on...
 
 <img src='/Computer-screen-code-glitch-animation-gif-background-free.gif' height='300px' width='100%' />
-I'm a <strong>Full-Stack Web-Developer</strong> and Veterinarian.
-
-I mostly speak spanish and english, so feel free to enquire on anything.
-
-I love cooking and learning.
-             
+<pre>            I'm a <strong>Full-Stack Web-Developer</strong> and Veterinarian.
+                I mostly speak spanish and english, so feel free to enquire on anything.
+                      I love cooking and learning.
+</pre>
 ---
 
 <h3 align="left">Languages and Tools:</h3>
